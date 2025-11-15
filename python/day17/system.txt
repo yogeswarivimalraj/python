@@ -1,0 +1,5 @@
+INFO: System started
+WARNING: Low battery
+ERROR: Disk not found
+INFO: Update completed
+ERROR: Failed to load driver

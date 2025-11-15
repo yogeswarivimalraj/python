@@ -1,0 +1,7 @@
+INFO: System started successfully.
+WARNING: Low disk space.
+ERROR: Failed to connect to database.
+INFO: User logged in.
+ERROR: File not found.
+WARNING: High memory usage.
+INFO: Task completed.
